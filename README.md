@@ -5,7 +5,7 @@ I am Abina Arshad, currently pursuing my B.S. in Computer Science at the Univers
 I’m a software engineer and builder focused on creating systems that scale and solve meaningful problems.  
 From research to real-world products, I’m interested in reducing friction using technology.
 
-Fun fact: I can speak 4 and a half languages (currently learning my fifth).
+Fun fact: I can speak 4 and a half languages (currently learning fifth).
 
 ---
 
