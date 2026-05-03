@@ -1,4 +1,4 @@
-<!--
+
 ## Hi there 👋
 
 I am Abina Arshad, currently pursuing my B.S. in Computer Science at the University of Kansas (KU).  
@@ -49,4 +49,3 @@ https://doi.org/10.3390/a17020082
 Feel free to reach out:  
 📧 abina.arshad@ku.edu
 
--->
