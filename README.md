@@ -13,9 +13,11 @@ Fun fact: I can speak 4 and a half languages (currently learning fifth).
 **iQuasar LLC** — Software Engineering Intern  
 Sterling, VA · June 2026 – Present
 
-- Built Python ETL pipelines ingesting contract data from 22 sources into a unified schema covering 50k+ records  
-- Reduced average contract lookup time from ~3s to <400ms using SQL search/filter features  
-- Cut redundant daily processing by ~35% by integrating REST APIs and external data sources into one platform  
+Right now I’m working on the messy contract-data problem: lots of sources, one place people actually search.
+
+- Writing Python pipelines to pull everything into one schema  
+- Building SQL search/filter so lookups don’t feel painfully slow  
+- Wiring REST APIs together so we aren’t reprocessing the same data every day  
 
 ---
 
@@ -24,10 +26,7 @@ Sterling, VA · June 2026 – Present
 **University of Kansas**  
 *Supervisor: Prof. Esam El Araby*
 
-- Undergraduate Research Assistant working on quantum machine learning and variational quantum algorithms  
-- Designed and evaluated quantum convolution and pooling methods for high-dimensional quantum ML models  
-- Implemented and ran quantum algorithm simulations in Python, analyzing performance across different model configurations  
-- Conducted experimental evaluation, debugging, and performance comparison of quantum architectures  
+I spent about a year in the lab on quantum machine learning — convolution and pooling for variational quantum algorithms. A lot of my time was Python simulations: try a setup, debug it, compare it to the baseline, repeat. That work ended up in two papers.  
 
 ---
 
@@ -48,8 +47,8 @@ https://doi.org/10.3390/a17020082
 ## 🏆 Awards
 
 - Best Startup Idea — Beam Venture (2026)  
-- Runner-up — Midwest Blockathon, KU Blockchain Institute (2025)  
-- International Excellence Award, University of Kansas — Full-tuition merit scholarship (Top 20 international students)  
+- Runner-up — Midwest Blockathon (2025)  
+- International Excellence Award — Full-tuition merit scholarship (Top 20 international students)  
 - National Mathematics Olympiad winner — 4 consecutive years (Top 10 nationally)  
 
 ---
