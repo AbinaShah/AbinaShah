@@ -1,4 +1,3 @@
-
 ## Hi there 👋
 
 I am Abina Arshad, currently pursuing my B.S. in Computer Science at the University of Kansas (KU).  
@@ -6,6 +5,17 @@ I’m a software engineer and builder focused on creating systems that scale and
 From research to real-world products, I’m interested in reducing friction using technology.
 
 Fun fact: I can speak 4 and a half languages (currently learning fifth).
+
+---
+
+## 💼 Internship Experience
+
+**iQuasar LLC** — Software Engineering Intern  
+Sterling, VA · June 2026 – Present
+
+- Built Python ETL pipelines ingesting contract data from 22 sources into a unified schema covering 50k+ records  
+- Reduced average contract lookup time from ~3s to <400ms using SQL search/filter features  
+- Cut redundant daily processing by ~35% by integrating REST APIs and external data sources into one platform  
 
 ---
 
@@ -23,14 +33,14 @@ Fun fact: I can speak 4 and a half languages (currently learning fifth).
 
 ## 📄 Publications
 
-**Optimizing Multidimensional Pooling for Variational Quantum Algorithms**  
-Algorithms (2024)  
+**Leveraging Data Locality in Quantum Convolutional Classifiers**  
+Entropy, 26(6), 461 (2024)  
 https://doi.org/10.3390/e26060461  
 
 ---
 
-**Leveraging Data Locality in Quantum Convolutional Classifiers**  
-Algorithms (MDPI), 2024  
+**Optimizing Multidimensional Pooling for Variational Quantum Algorithms**  
+Algorithms, 17(2), 82 (2024)  
 https://doi.org/10.3390/a17020082  
 
 ---
@@ -48,4 +58,3 @@ https://doi.org/10.3390/a17020082
 
 Feel free to reach out:  
 📧 abina.arshad@ku.edu
-
