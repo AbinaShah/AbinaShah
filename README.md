@@ -48,8 +48,8 @@ https://doi.org/10.3390/a17020082
 ## 🏆 Awards
 
 - Best Startup Idea — Beam Venture (2026)  
-- Runner-up — Midwest Blockathon (2025)  
-- International Excellence Award — Full-tuition merit scholarship (Top 20 international students)  
+- Runner-up — Midwest Blockathon, KU Blockchain Institute (2025)  
+- International Excellence Award, University of Kansas — Full-tuition merit scholarship (Top 20 international students)  
 - National Mathematics Olympiad winner — 4 consecutive years (Top 10 nationally)  
 
 ---
